@@ -1,4 +1,4 @@
--module(math_functions).
+-module(chapter4).
 -export([even/1, odd/1, filter/2, split1/1, split2/1, my_tuple_to_list/1]).
 
 even(X) -> case X rem 2 of
